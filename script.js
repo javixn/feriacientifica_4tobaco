@@ -7,7 +7,7 @@ const lista = [
 'Somos estudiantes de 4to Bachillerato en Computación,',
 'Esperamos que disfruten nuestra presentación,',
 'Muchas gracias por su atención,',
-'Y ahora los invitamos a conocer nuestro tríptico.'
+'Y ahora los invitamos a conocer nuestro trifoliar.'
 ];
 
 let indice = 0;
